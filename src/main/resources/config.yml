@@ -1,0 +1,6 @@
+gui:
+  enchant-lore:
+    - "<light_gray>Level: <white>%current_level%/%max_level%"
+    - "<red>Description of the enchantment:"
+    - "<gray>%description%"
+    - "<green>Cost to Upgrade: <white>%cost%$"

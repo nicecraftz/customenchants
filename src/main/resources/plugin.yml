@@ -1,0 +1,13 @@
+name: customenchants
+version: '1.0-SNAPSHOT'
+main: it.alessandrocalista.customenchants.PrisonCustomEnchants
+api-version: '1.21'
+authors: [ nicecraftz ]
+website: https://alessandrocalista.it
+commands:
+  customenchants:
+    description: "Main command for Custom Enchants plugin"
+softdepend: [ "PlaceholderAPI", "WorldGuard" ]
+dependencies:
+  - Vault
+

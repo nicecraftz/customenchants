@@ -1,0 +1,11 @@
+enabled: true
+name: "Explosive"
+description: "This is the explsive enchantment, which causes blocks to explode when mined."
+level-schema:
+  initial-cost: 1000
+  cost-increase: 100
+  max-level: 5
+gui-schema:
+  icon: "tnt"
+  name: "&7Explosive"
+

@@ -1,0 +1,11 @@
+enabled: true
+name: "Sphered"
+description: "This is the Sphered enchantment, which creates a circle-like explosion when mining."
+level-schema:
+  initial-cost: 1000
+  cost-increase: 100
+  max-level: 5
+gui-schema:
+  icon: "tnt"
+  name: "&7Sphered"
+
